@@ -1,0 +1,4 @@
+
+for(int ix=0; ix<100; ++ix)
+    sum+=value[ix];
+

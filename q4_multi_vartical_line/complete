@@ -1,0 +1,8 @@
+CHogeDlg aDlg;
+aDlg.m_aaa = aaa;       //  aaa
+aDlg.m_bcd = bcd;       //  bcd
+aDlg.m_ttt = ttt;       //  ttt
+aDlg.m_xyz = xyz;       //  xyz
+aDlg.m_zzz = zzz;       //  zzz
+if( aDlg.DoModal() == IDOK ) {
+}
